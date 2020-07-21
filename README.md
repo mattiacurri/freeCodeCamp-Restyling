@@ -2,4 +2,13 @@
 
 This Repository contains my first public projects. I tried to restyle the design of the popular code learning website freeCodeCamp.org
 
-This is my first try using Bootstrap. The site is responsive with every device.
+### Tools I used
+
+- Visual Studio Code (IDE)
+- HTML, CSS, Bootstrap 4
+- Google :)
+
+### Features
+
+- Modern Design
+- Responsive
