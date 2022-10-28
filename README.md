@@ -1,6 +1,6 @@
 # freeCodeCamp-Restyling
 
-This Repository contains my first public project. I tried to restyle the design of the popular code learning website freeCodeCamp.org
+Redesign of the popular code learning website freeCodeCamp.org as an exercise to practise HTML, CSS and Bootstrap 4
 
 ### Tools I used
 
